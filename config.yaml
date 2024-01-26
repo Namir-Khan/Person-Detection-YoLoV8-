@@ -1,0 +1,8 @@
+path: C:\Users\namir\Desktop\Namir\Clg Docs\Codes\YoLo V8\Train   # Absolute Path (CHANGE THIS)
+train: images\train  # Relative Path
+val: images\valid    # Relative Path
+test: images\test   # Relative Path
+
+# Classes
+names:
+  0: Person
