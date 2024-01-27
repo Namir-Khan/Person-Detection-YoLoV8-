@@ -4,5 +4,5 @@ val: images\valid    # Relative Path
 test: images\test   # Relative Path
 
 # Classes
-names:
-  0: Person
+nc: 1
+names: ['Person']
